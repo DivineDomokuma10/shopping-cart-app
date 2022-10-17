@@ -1,7 +1,7 @@
-const reset = rsBtn =>{
+const reset = (rsBtn) =>{
     let resetBtn = document.querySelector(`.${rsBtn}`);
     resetBtn.addEventListener('click',()=>{
-        location.reload()
+        location.reload();
     })
 }
 

@@ -1,0 +1,21 @@
+@media (orientation: portrait) {
+    nav{
+        justify-content: center;
+    }
+    nav h1{
+        width: 95%;
+        height: 50%;
+    }
+    nav h1 span{
+        width: 15%;
+    }
+    .reset-btn{
+        width: 30%;
+        margin: 5%;
+    }
+    main{
+        width: 90%;
+        padding: 2%;
+        margin: 10% 0 0 3%;
+    }
+}
